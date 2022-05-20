@@ -1,0 +1,11 @@
+Maven
+
+ Over view of Maven
+ Diff b/w Maven and Ant
+ How to install Maven in Windows and Linux
+ Maven Phases
+ Maven repositories
+ How to create .Jar, .war and files
+ How to add dependency files
+ Sample Maven Projects
+ How to Deploy Executable files in Application Servers
